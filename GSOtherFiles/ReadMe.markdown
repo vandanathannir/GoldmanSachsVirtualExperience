@@ -6,7 +6,7 @@ circumvent implemented controls and propose uplifts to increase the overall leve
 security in an organization. Gaining valid credentials gives the attackers access to 
 the organization’s IT system, thus circumventing most of perimeter controls in place.
 
-##Here is your task
+## 2. Here is your task
 Your job is to crack as many passwords as possible with available tools (e.g. use Hashcat). Here are your Task instructions:
 
 Review the links provided in the additional resources (section 4) below to gain a background understanding of password cracking
@@ -26,4 +26,3 @@ What controls could be implemented to make cracking much harder for the hacker i
 What can you tell about the organization’s password policy (e.g. password length, key space, etc.)?
 What would you change in the password policy to make breaking the passwords harder? 
 
-##
